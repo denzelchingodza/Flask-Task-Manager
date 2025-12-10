@@ -1,0 +1,12 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+}
+
+h2 {
+    color: #343a40;
+}
+
+.table-success td {
+    text-decoration: line-through;
+}
