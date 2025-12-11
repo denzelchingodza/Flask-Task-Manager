@@ -17,19 +17,13 @@ A web-based task management application built with **Python and Flask**. This pr
 - **Flask-SQLAlchemy** – ORM for SQLite database
 - **Bootstrap 5** – Frontend styling
 
-## Getting Started
-
-### Prerequisites
-
-- Python 3.10 or higher installed on your system.
-- Git installed (optional, if cloning from GitHub).
-
 ### Installation
 
 1. Clone the repository:
 
 git clone https://github.com/denzelchingodza/Flask-Task-Manager.git
 cd Flask-Task-Manager
+
 
 
 
